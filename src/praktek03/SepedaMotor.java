@@ -5,5 +5,9 @@
 package praktek03;
 
 public class SepedaMotor extends Sepeda{
+    Private String jenisMotor;
     
+    void throttle() {
+        System.out.println("NGEEEEENG.........");
+    }
 }
